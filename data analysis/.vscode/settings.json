@@ -1,0 +1,5 @@
+{
+  "python.jupyter.executeInFileDir": true,
+  "jupyter.jupyterServerType": "local",
+  "python.jupyter.defaultKernel": "Python (myenv)"
+}
