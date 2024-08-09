@@ -32,7 +32,8 @@ header {
 }
 
 nav {
-  margin-left: auto;
+  position: fixed;
+  margin-left: 70%;
 }
 
 .topnavbar ul {
@@ -107,7 +108,7 @@ input[type="email"] {
   border-radius: 4px;
   width: 300px;
 }
-button.get-started {
+input.get-started {
   padding: 6px 3px 6px 20px;
   background-color: #c58f11;
   color: #000;
